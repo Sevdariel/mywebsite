@@ -1,0 +1,1 @@
+This is brand new project versioned in Git. YAY!!!
